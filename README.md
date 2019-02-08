@@ -2,6 +2,7 @@
 Creating a Plist and Reading from it via Bundle.main
 
 **Place.plist File**  
+
 ![place plist](https://github.com/alexpaul/Plist-Creating-Reading/blob/master/Images/place-plist.png)   
 
 
