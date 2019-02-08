@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Coordinates</key>
+	<array>
+		<string>40.7429595,-73.9441155</string>
+		<string>40.7457885,-73.8489019</string>
+	</array>
+	<key>Queens Museum</key>
+	<dict>
+		<key>Longitude</key>
+		<real>-73.8489019</real>
+		<key>Latitude</key>
+		<real>40.7457885</real>
+		<key>Description</key>
+		<string>The Queens Museum is dedicated to presenting the highest quality visual arts and educational programming for people in the New York metropolitan area, and particularly for the residents of Queens, a uniquely diverse, ethnic, cultural, and international community.</string>
+		<key>Name</key>
+		<string>Queens Museum</string>
+	</dict>
+	<key>Pursuit</key>
+	<dict>
+		<key>Longitude</key>
+		<real>-73.9441155</real>
+		<key>Latitude</key>
+		<real>40.7429595</real>
+		<key>Description</key>
+		<string>Pursuit trains adults with the most need and potential to get their first tech jobs, advance in their careers, and become the next generation of leaders in tech.</string>
+		<key>Name</key>
+		<string>Pursuit</string>
+	</dict>
+</dict>
+</plist>
